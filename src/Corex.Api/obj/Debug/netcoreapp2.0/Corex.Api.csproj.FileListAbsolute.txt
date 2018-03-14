@@ -1,0 +1,10 @@
+C:\MICROSERVICES\Corex\src\Corex.Api\bin\Debug\netcoreapp2.0\Corex.Api.deps.json
+C:\MICROSERVICES\Corex\src\Corex.Api\bin\Debug\netcoreapp2.0\Corex.Api.runtimeconfig.json
+C:\MICROSERVICES\Corex\src\Corex.Api\bin\Debug\netcoreapp2.0\Corex.Api.runtimeconfig.dev.json
+C:\MICROSERVICES\Corex\src\Corex.Api\bin\Debug\netcoreapp2.0\Corex.Api.dll
+C:\MICROSERVICES\Corex\src\Corex.Api\bin\Debug\netcoreapp2.0\Corex.Api.pdb
+C:\MICROSERVICES\Corex\src\Corex.Api\obj\Debug\netcoreapp2.0\Corex.Api.csproj.CoreCompileInputs.cache
+C:\MICROSERVICES\Corex\src\Corex.Api\obj\Debug\netcoreapp2.0\Corex.Api.AssemblyInfoInputs.cache
+C:\MICROSERVICES\Corex\src\Corex.Api\obj\Debug\netcoreapp2.0\Corex.Api.AssemblyInfo.cs
+C:\MICROSERVICES\Corex\src\Corex.Api\obj\Debug\netcoreapp2.0\Corex.Api.dll
+C:\MICROSERVICES\Corex\src\Corex.Api\obj\Debug\netcoreapp2.0\Corex.Api.pdb
